@@ -1,2 +1,2 @@
-# interpreter-in-go
-Write an interpreter in go
+# Write an interpreter in Go
+Going through the book https://interpreterbook.com/ 
